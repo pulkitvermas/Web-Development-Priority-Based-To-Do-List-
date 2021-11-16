@@ -1,2 +1,2 @@
-# Web-Development-Priority-Based-To-Do-List-
-Major-project
+# Major-project
+Web Development(Priority Based To Do List)
