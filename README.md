@@ -1,6 +1,6 @@
 # Major-project
 Web Development(Priority Based To Do List)
-# Minor Project
+
 web development(virtual panio)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
